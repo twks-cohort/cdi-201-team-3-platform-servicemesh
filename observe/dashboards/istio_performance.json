@@ -1453,7 +1453,11 @@
     "refresh": "10s",
     "schemaVersion": 38,
     "style": "dark",
-    "tags": [],
+    "tags": [
+      "PE Monitoring",
+      "Kubernetes",
+      "Istio"
+    ],
     "templating": {
       "list": [
         {
